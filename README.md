@@ -12,6 +12,3 @@
   <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=saewew&show_icons=true&theme=transparent" />
   <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saewew&layout=compact&langs_count=8&theme=transparent" />
 </p>
-<p>
-  <img alt="Streak" height="165" src="https://streak-stats.demolab.com?user=saewew&theme=transparent" />
-</p>
