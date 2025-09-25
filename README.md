@@ -7,5 +7,5 @@
 </p>
 
 <p>
-  <img alt="Top languages" height="170" color="red" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hytnet&layout=compact&langs_count=8&theme=transparent" />
+  <img alt="Top languages" height="170" text-color="red" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hytnet&layout=compact&langs_count=8&theme=transparent" />
 </p>
