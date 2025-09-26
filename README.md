@@ -3,7 +3,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
-  <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic%20AI-000000?logo=openai&logoColor=white&style=for-the-badge" />
 </p>
 
 <p>
